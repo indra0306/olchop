@@ -1,0 +1,51 @@
+/* ini untuk home */
+.navbar{
+    position: sticky;
+}
+
+.container > .nav > li > a{
+    font-size: small;
+    float: center;
+    position: sticky;
+}
+
+.container > .list-group > a{
+    font-size: small;
+}
+
+.fa-shopping-cart{
+    color: rgb(241, 143, 15);
+}
+
+.fa-list{
+    color: white;
+}
+
+.container > img{
+    width: 90px;
+}
+
+
+.card{
+    box-shadow: 0 3px 10px rgba(0,0,0,0.3);
+
+}
+
+.card:hover{
+    box-shadow: 2px 2px 2px rgba(0,0,0,0.4);
+    transform: scale(1.02);
+}
+
+footer > p{
+    text-align: center;
+    background-color: rgb(0, 119, 255) ;
+    padding: 10px;
+    color: white;
+    margin-bottom: 0%;
+}
+
+/* ini untuk acoount .html*/
+.navbar > a{
+    font-size: 40px;
+}
+

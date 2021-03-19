@@ -1,0 +1,20 @@
+.container > button{
+    width: 20%;
+}
+
+.container > .row > .col-md-3 > .card >.card-body >button{
+    width: 100%;
+}
+
+.container > .row > .col-md-3 >img{
+    width: 100px;
+}
+
+footer > p{
+    text-align: center;
+    background-color: rgb(0, 119, 255) ;
+    padding: 10px;
+    color: white;
+    margin-bottom: 0%;
+}
+

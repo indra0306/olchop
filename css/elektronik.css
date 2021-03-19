@@ -1,0 +1,32 @@
+.container-fluid > .row > .col-md-2 >.list-group > a{
+    font-size: small;
+}
+.container > img{
+    width: 90px;
+}
+
+.container-fluid > .row > .col-md-10 > .row > .col-md-2{
+    margin-left: 2%;
+    margin-top: 1%;
+}
+
+.card{
+    box-shadow: 0 3px 10px rgba(0,0,0,0.2);
+}
+
+.card:hover{
+    box-shadow: 2px 2px 2px rgba(0,0,0,0.4);
+    transform: scale(1.02);
+}
+
+.fa-star{
+    color: orange;
+}
+
+footer > p{
+    text-align: center;
+    background-color: rgb(0, 119, 255) ;
+    padding: 10px;
+    color: white;
+    margin-bottom: 0%;
+}
